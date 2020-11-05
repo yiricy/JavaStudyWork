@@ -1,7 +1,11 @@
 package com.javaoop.xsb;
-
 import java.util.UUID;
-
+/**
+ * UUID工具类
+ * 
+ * @author yiricy
+ * @date 2020年11月5日
+ */
 public class UUIDUtil {
 	
 	//传入需要获取的随机序列长度，返回一个随机序列
