@@ -1,4 +1,4 @@
-package com.javaoop.xsb;
+
 import java.util.UUID;
 /**
  * UUID工具类
