@@ -1,4 +1,10 @@
-package com.javaoop.xsb;
+
+/**
+ * 判断三角形类
+ * 功能：判断三角形是直角，锐角还是钝角
+ * @author yiricy
+ * @date 2020年11月5日
+ */
 
 
 public class TriangleJudge {
